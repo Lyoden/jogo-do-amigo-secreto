@@ -13,9 +13,9 @@ Basta adicionar os nomes e clicar no botão para descobrir quem foi o sorteado.
 ## 🖼 Demonstração
 
 ### Tela inicial
-![Tela inicial]([./prints/tela-inicial.png](https://github.com/Lyoden/Jogo-do-numero-secreto/blob/fa000abb8cd895c511ae93ebea02a9f8e3f6e140/sorteio%20realizado.png))
+![Tela inicial](https://github.com/Lyoden/Jogo-do-numero-secreto/blob/main/tela%20inicial.png)
 ### Sorteio realizado
-![Sorteio realizado]([./prints/sorteio-realizado.png](https://github.com/Lyoden/Jogo-do-numero-secreto/blob/fa000abb8cd895c511ae93ebea02a9f8e3f6e140/sorteio%20realizado.png))
+![Sorteio realizado](https://github.com/Lyoden/Jogo-do-numero-secreto/blob/main/sorteio%20realizado.png)
 
 ## 🛠 Tecnologias utilizadas
 
